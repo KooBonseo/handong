@@ -91,7 +91,7 @@ float: left;}
   <div class="item-list">
     <!-- 오렌지 -->
     <div class="item">
-      <img src="오렌지.jpg" alt="오렌지">
+      <img src="orange.jpg" alt="오렌지">
       <p>오렌지 (900원)</p>
       <!-- 버튼 관련된 부분은 챗gpt의 도움을 받음. -->
       <button onclick="toggleSoldOut('orange-status')">완판 처리</button>
@@ -100,14 +100,14 @@ float: left;}
 
     <!-- 계란 -->
     <div class="item">
-      <img src="날계란.jpeg" alt="계란">
+      <img src="egg.jpeg" alt="계란">
       <p>날계란 (300원)</p>
       <button onclick="toggleSoldOut('egg-status')">완판 처리</button>
       <div id="egg-status" class="sold-out" style="display: none;">✅ 완판되었습니다</div>
     </div>
 
     <div class="item">
-      <img src="과일컵.jpeg" alt="과일컵">
+      <img src="fruit.jpeg" alt="과일컵">
       <p>과일컵 (2,900원)</p>
       <!-- 버튼 관련된 부분은 챗gpt의 도움을 받음. -->
       <button onclick="toggleSoldOut('과일컵-status')">완판 처리</button>
@@ -115,7 +115,7 @@ float: left;}
     </div>
 
     <div class="item">
-      <img src="라면 용기.jpeg" alt="라면 용기">
+      <img src="ramyeon.jpeg" alt="라면 용기">
       <p>라면 용기 (800원)</p>
       <!-- 버튼 관련된 부분은 챗gpt의 도움을 받음. -->
       <button onclick="toggleSoldOut('라면 용기-status')">완판 처리</button>
@@ -123,7 +123,7 @@ float: left;}
     </div>
 
 <div class="item">
-      <img src="바나나.jpeg" alt="라면 용기">
+      <img src="banana.jpeg" alt="라면 용기">
       <p>바나나 (500원)</p>
       <!-- 버튼 관련된 부분은 챗gpt의 도움을 받음. -->
       <button onclick="toggleSoldOut('바나나-status')">완판 처리</button>
