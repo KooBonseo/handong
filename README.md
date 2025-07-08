@@ -1,6 +1,4 @@
 # handong
-한동잇츠 연습
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
